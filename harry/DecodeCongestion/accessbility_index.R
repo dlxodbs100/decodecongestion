@@ -40,7 +40,6 @@ keywords.seniors <- c("grocery store",
                       'community centre')
 
 source('accessbility.R')
-my.google.api.key <- "AIzaSyB0La6ERoMBER3YzVfE2DGull6EFu9tsbA" 
 
 locations <- c()
 for (i in 1:nrow(sampled.points)){
@@ -64,7 +63,6 @@ chosen.locations <- lapply(locations,function(x){
   })
   return(do.call(rbind,tmp))
 })
-my.google.api.key <- "AIzaSyCSqS1UrSb8CgWj9hVRil0cnGNOqMKytK4"
   
 travel.modes=c("walking",
                # "cycling",
