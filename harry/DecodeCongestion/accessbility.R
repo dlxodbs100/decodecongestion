@@ -6,9 +6,6 @@
 library(RCurl) # https requests
 library(RJSONIO) # manage JSON
 
-# my.google.api.key <- "AIzaSyCUzx63N6oWJ_9u6bZgXbAV4wWxMhWqchs" 
-# another.google.api.key <- "AIzaSyDvmlDixNMb8092-noG1OZnNJOafXkHcxs"
-
 url <- function(lat, lng, keyword, rankby=distance,API_key, num_sample=3,return.call="json", units="metric"){
   root <- "https://maps.googleapis.com/maps/api/place/nearbysearch/"
   u <- paste0(root,
