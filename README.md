@@ -4,7 +4,7 @@ Here is our awesome team:
 
 | Name        | Role      | Background  |
 | :------------- |:-------------| :-----|
-| Harry | Data analyst      |   [PhD in health outcomes research; MSc in statistics](https://dsi.ubc.ca/data-science-social-good) |
+| Harry | Data analyst      |   [PhD student in health outcomes research; MSc in statistics](https://dsi.ubc.ca/data-science-social-good) |
 | Katherine | UX/UI designer      |    [hi](www.katherinexz.com) |
 | Pallavi    | Data analyst  | [hi](https://www.linkedin.com/in/pallavi-natekar-datawiz) |
 | Prasanth      | Business analyst      |    [hi](https://www.linkedin.com/in/prasanthbk)|
