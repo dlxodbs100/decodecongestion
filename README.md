@@ -3,7 +3,7 @@
 Here is our team:
 
 | Name        | Role      | Background  |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------| :-----|
 | Pallavi    | Data Analyst  | [Data Analyst](https://www.linkedin.com/in/pallavi-natekar-datawiz) |
 | Prasanth      | Business analyst      |    https://www.linkedin.com/in/prasanthbk |
 | Harry | Data Analyst      |   PhD in health outcomes research; MSc in statistics |
@@ -25,13 +25,13 @@ VLI is a powerful tool to simplify this staggering amount of information into ke
 
 * [Prepration](Preparation) contains our preparatory work prior to the hackathon. We reviewed the relevant documents, brain-stormed ideas, assessed feasibility of each idea, and finally decided on one topic.
 
-* [Data](Data Set) contains all the data used for the hackathon.
+* [Data](Dataset) contains all the data used for the hackathon.
 
 * [Scripts](Scripts) contains all the script used for the hackathon. Note that you need a Google API to run those scripts!
 
 * [Output](Output) contains some of the outputs produced by the scripts. Note that we used Tableu to explore some of the data and produce some of the plots used in the final product.
 
-* [Presentation](Presentation) contains our [final presentation](Presentation/final_presentation.pptx) and [demo](https://en.wikipedia.org/wiki/R_(programming_language).
+* [Presentation](Presentation) contains our [final presentation](Presentation/final_presentation.pptx) and [demo](https://en.wikipedia.org/wiki/R).
 
 ## Contact Us !
-If you have any question or would like to take futher steps to commercialize our tool, please contact one of us. 
+If you have any question or would like to take futher steps to commercialize our tool, please contact one of us.
