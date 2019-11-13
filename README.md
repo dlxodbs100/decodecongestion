@@ -25,7 +25,7 @@ VLI is a powerful tool to simplify this staggering amount of information into ke
 
 * [_Prepration_](Preparation) contains our preparatory work prior to the hackathon. We reviewed the relevant documents, brain-stormed ideas, assessed feasibility of each idea, and finally decided on one topic.
 
-* [_Dataset_](Dataset) contains all the data used for the hackathon.
+* [_Dataset_](Dataset) contains all the data used for the hackathon. It has been removed to adhere to the regulation set by the City of Vancouver.
 
 * [_Scripts_](Scripts) contains all the script used for the hackathon. Note that you need a Google API to run those scripts!
 
