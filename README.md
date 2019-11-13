@@ -4,11 +4,11 @@ Here is our awesome team:
 
 | Name        | Role      | Background  |
 | :------------- |:-------------| :-----|
-| Harry | Data analyst      |   PhD in health outcomes research; MSc in statistics |
-| Katherine | UX/UI designer      |    [hi]www.katherinexz.com |
+| Harry | Data analyst      |   [PhD in health outcomes research; MSc in statistics](https://dsi.ubc.ca/data-science-social-good) |
+| Katherine | UX/UI designer      |    [hi](www.katherinexz.com) |
 | Pallavi    | Data analyst  | [hi](https://www.linkedin.com/in/pallavi-natekar-datawiz) |
-| Prasanth      | Business analyst      |    [hi]https://www.linkedin.com/in/prasanthbk |
-| Tua | Business analyst     |  [hi]https://www.linkedin.com/in/tua-wong/   |
+| Prasanth      | Business analyst      |    [hi](https://www.linkedin.com/in/prasanthbk)|
+| Tua | Business analyst     |  [hi](https://www.linkedin.com/in/tua-wong)   |
 
 
 ## Our Pitch
