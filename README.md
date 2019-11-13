@@ -1,14 +1,14 @@
 # [DecodeCongestion Hackathon 2019](https://vancouver.ca/streets-transportation/decode-congestion-hackathon.aspx)
 ## WeAreGroots
-Here is our team:
+Here is our awesome team:
 
 | Name        | Role      | Background  |
 | :------------- |:-------------| :-----|
-| Pallavi    | Data Analyst  | [Data Analyst](https://www.linkedin.com/in/pallavi-natekar-datawiz) |
-| Prasanth      | Business analyst      |    https://www.linkedin.com/in/prasanthbk |
-| Harry | Data Analyst      |   PhD in health outcomes research; MSc in statistics |
-| Tua | Economist     |  https://www.linkedin.com/in/tua-wong/   |
-| Katherine | UX/UI designer      |    www.katherinexz.com |
+| Harry | Data analyst      |   PhD in health outcomes research; MSc in statistics |
+| Katherine | UX/UI designer      |    [hi]www.katherinexz.com |
+| Pallavi    | Data analyst  | [hi](https://www.linkedin.com/in/pallavi-natekar-datawiz) |
+| Prasanth      | Business analyst      |    [hi]https://www.linkedin.com/in/prasanthbk |
+| Tua | Business analyst     |  [hi]https://www.linkedin.com/in/tua-wong/   |
 
 
 ## Our Pitch
@@ -23,15 +23,15 @@ VLI is a powerful tool to simplify this staggering amount of information into ke
 
 ## Organization of the files
 
-* [Prepration](Preparation) contains our preparatory work prior to the hackathon. We reviewed the relevant documents, brain-stormed ideas, assessed feasibility of each idea, and finally decided on one topic.
+* [_Prepration_](Preparation) contains our preparatory work prior to the hackathon. We reviewed the relevant documents, brain-stormed ideas, assessed feasibility of each idea, and finally decided on one topic.
 
-* [Data](Dataset) contains all the data used for the hackathon.
+* [_Dataset_](Dataset) contains all the data used for the hackathon.
 
-* [Scripts](Scripts) contains all the script used for the hackathon. Note that you need a Google API to run those scripts!
+* [_Scripts_](Scripts) contains all the script used for the hackathon. Note that you need a Google API to run those scripts!
 
-* [Output](Output) contains some of the outputs produced by the scripts. Note that we used Tableu to explore some of the data and produce some of the plots used in the final product.
+* [_Output_](Output) contains some of the outputs produced by the scripts. Note that we used Tableu to explore some of the data and produce some of the plots used in the final product.
 
-* [Presentation](Presentation) contains our [final presentation](Presentation/final_presentation.pptx) and [demo](https://en.wikipedia.org/wiki/R).
+* [_Presentation_](Presentation) contains our [final presentation](Presentation/final_presentation.pptx) and [demo](https://en.wikipedia.org/wiki/R).
 
 ## Contact Us !
 If you have any question or would like to take futher steps to commercialize our tool, please contact one of us.
