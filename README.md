@@ -22,9 +22,11 @@ Similarly, with the City of Vancouver’s growing focus on data usage to tackle 
 VLI is a powerful tool to simplify this staggering amount of information into key indices which could be conveniently accessed by anyone from a single dashboard. With drag-and-drop interface that allows for quick and easy policy evaluation, our product will assist key stakeholders to incorporate data-driven key insights from the VLI dashboard in their every discussion.
 
 ## Here is the demo of our product:
+<!-- blank link -->
 <figure class="video_container">
-	<iframe src="https://www.dropbox.com/s/oezyv7cli5jw6z3/Hackathon%20Full%20Website%20interaction%20video.mp4?dl=0" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe src="https://www.dropbox.com/s/oezyv7cli5jw6z3/Hackathon%20Full%20Website%20interaction%20video.mp4" frameborder="0" allowfullscreen="true"></iframe>
 <figure>
+<!-- blank link -->
 
 ## Organization of the files
 
