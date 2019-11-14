@@ -20,13 +20,6 @@ Similarly, with the City of Vancouver’s growing focus on data usage to tackle 
 
 VLI is a powerful tool to simplify this staggering amount of information into key indices which could be conveniently accessed by anyone from a single dashboard. With drag-and-drop interface that allows for quick and easy policy evaluation, our product will assist key stakeholders to incorporate data-driven key insights from the VLI dashboard in their every discussion.
 
-## Here is a live demo of our final product:
-<!-- blank link -->
-<figure class="video_container">
-	<iframe src="https://www.youtube.com/watch?v=XtGN_n0yCcM&feature=youtu.be" frameborder="0" allowfullscreen="true"></iframe>
-<figure>
-<!-- blank link -->
-
 ## Organization of the files
 
 * [_Prepration_](Preparation) contains our preparatory work prior to the hackathon. We reviewed the relevant documents, brain-stormed ideas, assessed feasibility of each idea, and finally decided on one topic.
@@ -37,6 +30,7 @@ VLI is a powerful tool to simplify this staggering amount of information into ke
 
 * [_Output_](Output) contains some of the outputs produced by the scripts. Note that we used Tableu to explore some of the data and produce some of the plots used in the final product.
 
-* [_Presentation_](Presentation) contains our [final presentation](Presentation/final_presentation.pptx) and [app](https://xd.adobe.com/view/deda1bff-1f16-4f9a-501d-69ad79781595-a8eb/?fullscreen).
+* [_Presentation_](Presentation) contains our [final presentation](Presentation/final_presentation.pptx) and [app](https://xd.adobe.com/view/deda1bff-1f16-4f9a-501d-69ad79781595-a8eb/?fullscreen). See [**here**](https://www.youtube.com/watch?v=XtGN_n0yCcM&feature=youtu.be) for a live demo.
+
 ## Contact Us !
 If you have any question or would like to take futher steps to commercialize our tool, please contact one of us.
