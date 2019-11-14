@@ -2,14 +2,13 @@
 ## WeAreGroots
 Here is our awesome team:
 
-| Name        | Role      | Background  |
+| Name        | Role      | Current Position  |
 | :------------- |:-------------| :-----|
-| Harry | Data analyst      |   [PhD student in health outcomes research; MSc in statistics](https://dsi.ubc.ca/data-science-social-good) |
-| Katherine | UX/UI designer      |    [hi](www.katherinexz.com) |
-| Pallavi    | Data analyst  | [hi](https://www.linkedin.com/in/pallavi-natekar-datawiz) |
-| Prasanth      | Business analyst      |    [hi](https://www.linkedin.com/in/prasanthbk)|
-| Tua | Business analyst     |  [hi](https://www.linkedin.com/in/tua-wong)   |
-
+| Harry | Data analyst      |   [PhD student in health outcomes research; MSc in statistics at UBC](https://dsi.ubc.ca/data-science-social-good) |
+| Katherine | UX/UI designer      |    [4th year interaction design student at ECU](www.katherinexz.com) |
+| Pallavi    | Data analyst  | [Data analyst](https://www.linkedin.com/in/pallavi-natekar-datawiz) |
+| Prasanth      | Business analyst      |    [MBAN student at UBC](https://www.linkedin.com/in/prasanthbk)|
+| Tua | Business analyst     |  [MBAN student at UBC](https://www.linkedin.com/in/tua-wong)   |
 
 ## Our Pitch
 
@@ -21,7 +20,7 @@ Similarly, with the City of Vancouver’s growing focus on data usage to tackle 
 
 VLI is a powerful tool to simplify this staggering amount of information into key indices which could be conveniently accessed by anyone from a single dashboard. With drag-and-drop interface that allows for quick and easy policy evaluation, our product will assist key stakeholders to incorporate data-driven key insights from the VLI dashboard in their every discussion.
 
-## Here is the demo of our product:
+## Here is a live demo of our final product:
 <!-- blank link -->
 <figure class="video_container">
 	<iframe src="https://www.dropbox.com/s/oezyv7cli5jw6z3/Hackathon%20Full%20Website%20interaction%20video.mp4" frameborder="0" allowfullscreen="true"></iframe>
@@ -38,7 +37,6 @@ VLI is a powerful tool to simplify this staggering amount of information into ke
 
 * [_Output_](Output) contains some of the outputs produced by the scripts. Note that we used Tableu to explore some of the data and produce some of the plots used in the final product.
 
-* [_Presentation_](Presentation) contains our [final presentation](Presentation/final_presentation.pptx) and [demo](https://en.wikipedia.org/wiki/R).
-
+* [_Presentation_](Presentation) contains our [final presentation](Presentation/final_presentation.pptx) and [app](https://xd.adobe.com/view/deda1bff-1f16-4f9a-501d-69ad79781595-a8eb/?fullscreen).
 ## Contact Us !
 If you have any question or would like to take futher steps to commercialize our tool, please contact one of us.
