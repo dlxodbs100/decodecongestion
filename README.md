@@ -23,7 +23,7 @@ VLI is a powerful tool to simplify this staggering amount of information into ke
 ## Here is a live demo of our final product:
 <!-- blank link -->
 <figure class="video_container">
-	<iframe src="https://www.dropbox.com/s/oezyv7cli5jw6z3/Hackathon%20Full%20Website%20interaction%20video.mp4" frameborder="0" allowfullscreen="true"></iframe>
+	<iframe src="https://www.youtube.com/watch?v=XtGN_n0yCcM&feature=youtu.be" frameborder="0" allowfullscreen="true"></iframe>
 <figure>
 <!-- blank link -->
 
